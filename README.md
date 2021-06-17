@@ -10,3 +10,5 @@ Please connect with me @gajoswald
 - - [X] Example Projects
 - - [X] Computational Thinking Framework and Examples
 - [ ] Put either of those things up in any coherent way
+
+["Blog"](https://gajoswald.github.io/)
