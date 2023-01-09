@@ -1,6 +1,7 @@
 # Mr. Jason Oswald
 ## Chair of Computer Science, Germantown Academy
-## Aspirant
+
+_Aspirant, Optimist_
 
 I am primarily concerned with developing Computer Science as a literacy for everybody.
 
