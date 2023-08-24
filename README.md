@@ -5,7 +5,7 @@ _Aspirant, Optimist_
 
 I am primarily concerned with developing Computer Science as a literacy for everybody.
 
-My [Why](https://www.youtube.com/watch?v=1ytFB8TrkTo) is because I believe that education is important and the way we do it can be better. 
+My [Why](https://www.youtube.com/watch?v=1ytFB8TrkTo) is I _believe_ that good education is everyone's right and I _know_ the way we do it can be better. 
 
 My work exists in the following threads:
 * Working with learners and teachers of CS at all levels
